@@ -1,0 +1,457 @@
+Region, Date, Frequency, Estimated Unemployment Rate (%), Estimated Employed, Estimated Labour Participation Rate (%),Area
+Andhra Pradesh,31-05-2019, Monthly,7.77,3356330,47.8,Rural
+Andhra Pradesh,31-05-2019, Monthly,7.88,2570006,40.58,Urban
+Bihar,31-05-2019, Monthly,9.53,1278167,46.51,Rural
+Bihar,31-05-2019, Monthly,5.73,1327069,42.12,Urban
+Delhi,31-05-2019, Monthly,5.28,3281931,46.12,Rural
+Delhi,31-05-2019, Monthly,4.08,2548762,46.12,Urban
+Gujarat,31-05-2019, Monthly,5.28,1648143,42.33,Rural
+Gujarat,31-05-2019, Monthly,5.69,3688875,45.14,Urban
+Haryana,31-05-2019, Monthly,7.05,1528178,46.8,Rural
+Haryana,31-05-2019, Monthly,6.28,4416664,49.66,Urban
+Karnataka,31-05-2019, Monthly,8.65,1068148,42.31,Rural
+Karnataka,31-05-2019, Monthly,6.57,3669995,44.95,Urban
+Maharashtra,31-05-2019, Monthly,5.99,3557489,46.63,Rural
+Maharashtra,31-05-2019, Monthly,6.6,4486825,45.68,Urban
+Punjab,31-05-2019, Monthly,5.84,3299435,49.39,Rural
+Punjab,31-05-2019, Monthly,9.67,2584398,40.88,Urban
+Rajasthan,31-05-2019, Monthly,5.07,1579879,48.45,Rural
+Rajasthan,31-05-2019, Monthly,8.82,4494679,43.57,Urban
+Tamil Nadu,31-05-2019, Monthly,6.49,2285160,42.96,Rural
+Tamil Nadu,31-05-2019, Monthly,4.86,3361864,47.72,Urban
+Uttar Pradesh,31-05-2019, Monthly,5.0,1136330,41.99,Rural
+Uttar Pradesh,31-05-2019, Monthly,9.14,3109818,40.74,Urban
+West Bengal,31-05-2019, Monthly,6.02,4430534,48.5,Rural
+West Bengal,31-05-2019, Monthly,6.44,4011062,43.11,Urban
+Andhra Pradesh,30-06-2019, Monthly,7.09,4602279,42.75,Rural
+Andhra Pradesh,30-06-2019, Monthly,7.57,1139182,47.13,Urban
+Bihar,30-06-2019, Monthly,8.93,2972990,42.56,Rural
+Bihar,30-06-2019, Monthly,5.62,3316121,40.25,Urban
+Delhi,30-06-2019, Monthly,4.6,3869990,44.75,Rural
+Delhi,30-06-2019, Monthly,8.21,3832868,42.49,Urban
+Gujarat,30-06-2019, Monthly,7.56,2213475,49.43,Rural
+Gujarat,30-06-2019, Monthly,8.38,3512667,49.3,Urban
+Haryana,30-06-2019, Monthly,9.31,2575557,44.57,Rural
+Haryana,30-06-2019, Monthly,5.93,3009021,45.39,Urban
+Karnataka,30-06-2019, Monthly,9.83,3665702,49.07,Rural
+Karnataka,30-06-2019, Monthly,6.66,3235000,48.18,Urban
+Maharashtra,30-06-2019, Monthly,8.32,1021959,45.34,Rural
+Maharashtra,30-06-2019, Monthly,7.81,4683561,43.38,Urban
+Punjab,30-06-2019, Monthly,9.36,2013343,45.58,Rural
+Punjab,30-06-2019, Monthly,6.15,1039353,49.62,Urban
+Rajasthan,30-06-2019, Monthly,6.25,1416880,41.48,Rural
+Rajasthan,30-06-2019, Monthly,9.52,1225281,45.03,Urban
+Tamil Nadu,30-06-2019, Monthly,4.81,1269536,46.34,Rural
+Tamil Nadu,30-06-2019, Monthly,8.47,3222809,49.86,Urban
+Uttar Pradesh,30-06-2019, Monthly,6.55,4768522,43.7,Rural
+Uttar Pradesh,30-06-2019, Monthly,6.82,3465604,46.32,Urban
+West Bengal,30-06-2019, Monthly,8.24,2915631,47.98,Rural
+West Bengal,30-06-2019, Monthly,5.77,3148815,40.41,Urban
+Andhra Pradesh,31-07-2019, Monthly,8.31,1910681,45.12,Rural
+Andhra Pradesh,31-07-2019, Monthly,6.42,3311987,49.41,Urban
+Bihar,31-07-2019, Monthly,7.02,4418983,41.38,Rural
+Bihar,31-07-2019, Monthly,5.93,4717270,45.41,Urban
+Delhi,31-07-2019, Monthly,7.94,1645263,48.17,Rural
+Delhi,31-07-2019, Monthly,7.84,3754561,49.96,Urban
+Gujarat,31-07-2019, Monthly,9.94,4437727,46.33,Rural
+Gujarat,31-07-2019, Monthly,6.39,2588015,48.47,Urban
+Haryana,31-07-2019, Monthly,9.09,1321184,46.42,Rural
+Haryana,31-07-2019, Monthly,4.74,1501157,46.69,Urban
+Karnataka,31-07-2019, Monthly,7.65,3921944,46.64,Rural
+Karnataka,31-07-2019, Monthly,4.35,4789137,44.86,Urban
+Maharashtra,31-07-2019, Monthly,8.23,1618467,47.12,Rural
+Maharashtra,31-07-2019, Monthly,5.84,2707923,43.66,Urban
+Punjab,31-07-2019, Monthly,9.16,2905279,45.68,Rural
+Punjab,31-07-2019, Monthly,5.2,3379126,42.5,Urban
+Rajasthan,31-07-2019, Monthly,8.91,2778226,48.92,Rural
+Rajasthan,31-07-2019, Monthly,8.75,3937629,46.45,Urban
+Tamil Nadu,31-07-2019, Monthly,9.07,3976763,47.22,Rural
+Tamil Nadu,31-07-2019, Monthly,5.45,3727423,41.77,Urban
+Uttar Pradesh,31-07-2019, Monthly,10.61,4444084,48.83,Rural
+Uttar Pradesh,31-07-2019, Monthly,9.64,3887004,44.28,Urban
+West Bengal,31-07-2019, Monthly,10.76,3020320,40.75,Rural
+West Bengal,31-07-2019, Monthly,5.91,4851424,43.17,Urban
+Andhra Pradesh,31-08-2019, Monthly,5.96,3610910,48.44,Rural
+Andhra Pradesh,31-08-2019, Monthly,8.79,4912305,46.15,Urban
+Bihar,31-08-2019, Monthly,9.23,4227802,42.95,Rural
+Bihar,31-08-2019, Monthly,7.31,4775880,47.02,Urban
+Delhi,31-08-2019, Monthly,6.38,4295990,44.2,Rural
+Delhi,31-08-2019, Monthly,6.5,3317115,45.11,Urban
+Gujarat,31-08-2019, Monthly,8.1,3361664,40.71,Rural
+Gujarat,31-08-2019, Monthly,6.09,4757938,43.38,Urban
+Haryana,31-08-2019, Monthly,6.07,1666326,46.72,Rural
+Haryana,31-08-2019, Monthly,5.95,2699005,42.87,Urban
+Karnataka,31-08-2019, Monthly,7.02,2025715,40.39,Rural
+Karnataka,31-08-2019, Monthly,6.59,3058852,45.22,Urban
+Maharashtra,31-08-2019, Monthly,8.28,4522564,44.57,Rural
+Maharashtra,31-08-2019, Monthly,8.6,1949597,45.41,Urban
+Punjab,31-08-2019, Monthly,8.64,2143052,49.7,Rural
+Punjab,31-08-2019, Monthly,7.66,2646711,42.71,Urban
+Rajasthan,31-08-2019, Monthly,6.35,4177945,49.63,Rural
+Rajasthan,31-08-2019, Monthly,9.57,4220468,40.58,Urban
+Tamil Nadu,31-08-2019, Monthly,9.46,3274399,45.49,Rural
+Tamil Nadu,31-08-2019, Monthly,8.89,3735988,46.38,Urban
+Uttar Pradesh,31-08-2019, Monthly,7.9,1541252,46.12,Rural
+Uttar Pradesh,31-08-2019, Monthly,6.59,3164367,41.59,Urban
+West Bengal,31-08-2019, Monthly,5.28,1009435,40.46,Rural
+West Bengal,31-08-2019, Monthly,5.91,3288627,41.75,Urban
+Andhra Pradesh,30-09-2019, Monthly,5.61,2169748,44.73,Rural
+Andhra Pradesh,30-09-2019, Monthly,5.73,1288790,40.48,Urban
+Bihar,30-09-2019, Monthly,10.52,1650419,43.75,Rural
+Bihar,30-09-2019, Monthly,8.14,1191232,45.39,Urban
+Delhi,30-09-2019, Monthly,8.65,3285903,46.42,Rural
+Delhi,30-09-2019, Monthly,5.3,4337690,48.01,Urban
+Gujarat,30-09-2019, Monthly,8.53,3450976,44.58,Rural
+Gujarat,30-09-2019, Monthly,8.61,2548098,48.2,Urban
+Haryana,30-09-2019, Monthly,7.67,3248988,40.69,Rural
+Haryana,30-09-2019, Monthly,4.54,3976242,46.18,Urban
+Karnataka,30-09-2019, Monthly,6.99,3710108,48.45,Rural
+Karnataka,30-09-2019, Monthly,5.75,3597480,44.96,Urban
+Maharashtra,30-09-2019, Monthly,8.16,1535626,48.77,Rural
+Maharashtra,30-09-2019, Monthly,9.28,4369720,45.48,Urban
+Punjab,30-09-2019, Monthly,7.25,4132130,49.91,Rural
+Punjab,30-09-2019, Monthly,6.81,1196582,45.81,Urban
+Rajasthan,30-09-2019, Monthly,9.46,2355531,44.29,Rural
+Rajasthan,30-09-2019, Monthly,9.26,3511720,43.78,Urban
+Tamil Nadu,30-09-2019, Monthly,7.66,4065173,42.98,Rural
+Tamil Nadu,30-09-2019, Monthly,4.61,3292156,49.05,Urban
+Uttar Pradesh,30-09-2019, Monthly,5.1,4621581,46.77,Rural
+Uttar Pradesh,30-09-2019, Monthly,7.4,2187983,44.48,Urban
+West Bengal,30-09-2019, Monthly,6.12,3763642,42.13,Rural
+West Bengal,30-09-2019, Monthly,10.29,1787494,40.91,Urban
+Andhra Pradesh,31-10-2019, Monthly,6.59,4009758,40.56,Rural
+Andhra Pradesh,31-10-2019, Monthly,8.78,4235658,41.17,Urban
+Bihar,31-10-2019, Monthly,6.24,1231915,48.67,Rural
+Bihar,31-10-2019, Monthly,9.04,4851431,40.73,Urban
+Delhi,31-10-2019, Monthly,9.52,2263108,45.13,Rural
+Delhi,31-10-2019, Monthly,6.33,4581292,43.71,Urban
+Gujarat,31-10-2019, Monthly,9.96,3789592,45.92,Rural
+Gujarat,31-10-2019, Monthly,7.17,1952082,47.77,Urban
+Haryana,31-10-2019, Monthly,7.64,1448345,43.3,Rural
+Haryana,31-10-2019, Monthly,6.68,4887857,44.69,Urban
+Karnataka,31-10-2019, Monthly,4.52,2454908,48.23,Rural
+Karnataka,31-10-2019, Monthly,9.08,1866651,49.62,Urban
+Maharashtra,31-10-2019, Monthly,6.45,2868599,45.28,Rural
+Maharashtra,31-10-2019, Monthly,7.79,2553068,49.7,Urban
+Punjab,31-10-2019, Monthly,6.0,2534837,49.25,Rural
+Punjab,31-10-2019, Monthly,9.1,1423570,49.69,Urban
+Rajasthan,31-10-2019, Monthly,7.87,2873421,42.94,Rural
+Rajasthan,31-10-2019, Monthly,10.37,2772802,49.01,Urban
+Tamil Nadu,31-10-2019, Monthly,4.79,1928479,40.58,Rural
+Tamil Nadu,31-10-2019, Monthly,6.19,4002740,42.77,Urban
+Uttar Pradesh,31-10-2019, Monthly,5.87,4492537,42.29,Rural
+Uttar Pradesh,31-10-2019, Monthly,6.05,1791267,49.86,Urban
+West Bengal,31-10-2019, Monthly,8.56,1317428,48.14,Rural
+West Bengal,31-10-2019, Monthly,7.75,4311149,40.76,Urban
+Andhra Pradesh,30-11-2019, Monthly,9.54,1463556,46.13,Rural
+Andhra Pradesh,30-11-2019, Monthly,7.96,4562737,45.52,Urban
+Bihar,30-11-2019, Monthly,5.65,2110389,48.11,Rural
+Bihar,30-11-2019, Monthly,9.24,2635156,47.5,Urban
+Delhi,30-11-2019, Monthly,7.62,4101360,48.38,Rural
+Delhi,30-11-2019, Monthly,7.17,1000404,40.56,Urban
+Gujarat,30-11-2019, Monthly,9.95,3981726,47.5,Rural
+Gujarat,30-11-2019, Monthly,9.74,3297396,49.45,Urban
+Haryana,30-11-2019, Monthly,8.74,2498189,42.05,Rural
+Haryana,30-11-2019, Monthly,5.81,1843523,42.29,Urban
+Karnataka,30-11-2019, Monthly,8.59,4181915,42.69,Rural
+Karnataka,30-11-2019, Monthly,5.11,3683317,47.72,Urban
+Maharashtra,30-11-2019, Monthly,8.31,1640053,49.68,Rural
+Maharashtra,30-11-2019, Monthly,6.03,1481680,41.34,Urban
+Punjab,30-11-2019, Monthly,5.65,1826196,46.39,Rural
+Punjab,30-11-2019, Monthly,9.83,1327359,40.15,Urban
+Rajasthan,30-11-2019, Monthly,6.93,3759453,45.55,Rural
+Rajasthan,30-11-2019, Monthly,5.91,3453752,45.14,Urban
+Tamil Nadu,30-11-2019, Monthly,8.71,1070390,45.24,Rural
+Tamil Nadu,30-11-2019, Monthly,9.08,2556617,49.27,Urban
+Uttar Pradesh,30-11-2019, Monthly,6.98,1650199,40.46,Rural
+Uttar Pradesh,30-11-2019, Monthly,7.8,1628861,46.33,Urban
+West Bengal,30-11-2019, Monthly,5.35,1679574,41.28,Rural
+West Bengal,30-11-2019, Monthly,5.04,2072647,41.8,Urban
+Andhra Pradesh,31-12-2019, Monthly,8.31,2263455,44.74,Rural
+Andhra Pradesh,31-12-2019, Monthly,7.68,4791481,42.24,Urban
+Bihar,31-12-2019, Monthly,8.8,2085244,40.32,Rural
+Bihar,31-12-2019, Monthly,7.81,3245131,42.06,Urban
+Delhi,31-12-2019, Monthly,6.83,2261466,40.39,Rural
+Delhi,31-12-2019, Monthly,9.25,4025134,45.12,Urban
+Gujarat,31-12-2019, Monthly,5.54,3756944,42.77,Rural
+Gujarat,31-12-2019, Monthly,9.53,4982588,49.86,Urban
+Haryana,31-12-2019, Monthly,8.53,4285517,46.18,Rural
+Haryana,31-12-2019, Monthly,6.77,2720684,40.62,Urban
+Karnataka,31-12-2019, Monthly,5.0,3757634,48.95,Rural
+Karnataka,31-12-2019, Monthly,7.62,4121132,48.67,Urban
+Maharashtra,31-12-2019, Monthly,6.57,2619135,42.69,Rural
+Maharashtra,31-12-2019, Monthly,5.93,4393464,48.41,Urban
+Punjab,31-12-2019, Monthly,5.52,4412504,48.91,Rural
+Punjab,31-12-2019, Monthly,8.33,1467010,46.49,Urban
+Rajasthan,31-12-2019, Monthly,7.57,3123221,45.87,Rural
+Rajasthan,31-12-2019, Monthly,8.59,3693714,43.79,Urban
+Tamil Nadu,31-12-2019, Monthly,7.49,1572735,45.71,Rural
+Tamil Nadu,31-12-2019, Monthly,7.75,2314532,49.34,Urban
+Uttar Pradesh,31-12-2019, Monthly,4.49,1525893,42.46,Rural
+Uttar Pradesh,31-12-2019, Monthly,5.18,4931965,48.06,Urban
+West Bengal,31-12-2019, Monthly,5.96,4668866,45.25,Rural
+West Bengal,31-12-2019, Monthly,8.02,4052766,48.97,Urban
+Andhra Pradesh,31-01-2020, Monthly,8.71,2791822,48.17,Rural
+Andhra Pradesh,31-01-2020, Monthly,5.63,3896818,48.21,Urban
+Bihar,31-01-2020, Monthly,8.66,1244761,42.8,Rural
+Bihar,31-01-2020, Monthly,8.22,2877109,47.11,Urban
+Delhi,31-01-2020, Monthly,6.47,3332811,41.15,Rural
+Delhi,31-01-2020, Monthly,7.63,1788260,45.06,Urban
+Gujarat,31-01-2020, Monthly,9.3,1571650,40.52,Rural
+Gujarat,31-01-2020, Monthly,5.95,4757974,45.49,Urban
+Haryana,31-01-2020, Monthly,6.38,4154240,41.39,Rural
+Haryana,31-01-2020, Monthly,4.25,3190222,44.72,Urban
+Karnataka,31-01-2020, Monthly,6.76,4514160,48.51,Rural
+Karnataka,31-01-2020, Monthly,8.55,2378164,47.31,Urban
+Maharashtra,31-01-2020, Monthly,9.05,1386594,49.26,Rural
+Maharashtra,31-01-2020, Monthly,7.7,2135964,41.4,Urban
+Punjab,31-01-2020, Monthly,8.38,3448157,48.25,Rural
+Punjab,31-01-2020, Monthly,5.4,3596249,49.08,Urban
+Rajasthan,31-01-2020, Monthly,6.76,2567121,48.17,Rural
+Rajasthan,31-01-2020, Monthly,6.95,4288754,46.24,Urban
+Tamil Nadu,31-01-2020, Monthly,7.58,2450976,42.32,Rural
+Tamil Nadu,31-01-2020, Monthly,9.27,3508749,40.67,Urban
+Uttar Pradesh,31-01-2020, Monthly,6.23,4711173,49.4,Rural
+Uttar Pradesh,31-01-2020, Monthly,7.81,3577855,41.67,Urban
+West Bengal,31-01-2020, Monthly,9.38,2073629,48.94,Rural
+West Bengal,31-01-2020, Monthly,8.25,1853088,47.07,Urban
+Andhra Pradesh,29-02-2020, Monthly,8.18,2902787,45.7,Rural
+Andhra Pradesh,29-02-2020, Monthly,9.57,2223520,41.03,Urban
+Bihar,29-02-2020, Monthly,7.44,3300119,46.04,Rural
+Bihar,29-02-2020, Monthly,7.59,1126108,42.29,Urban
+Delhi,29-02-2020, Monthly,9.05,3244702,45.98,Rural
+Delhi,29-02-2020, Monthly,8.26,2703194,43.46,Urban
+Gujarat,29-02-2020, Monthly,6.72,2649189,42.27,Rural
+Gujarat,29-02-2020, Monthly,6.69,3974058,41.53,Urban
+Haryana,29-02-2020, Monthly,7.94,1541656,42.56,Rural
+Haryana,29-02-2020, Monthly,8.82,3792427,45.65,Urban
+Karnataka,29-02-2020, Monthly,9.33,1890695,46.51,Rural
+Karnataka,29-02-2020, Monthly,8.61,3414472,44.24,Urban
+Maharashtra,29-02-2020, Monthly,9.55,4280597,49.11,Rural
+Maharashtra,29-02-2020, Monthly,5.09,3067801,48.39,Urban
+Punjab,29-02-2020, Monthly,6.46,4245886,43.11,Rural
+Punjab,29-02-2020, Monthly,6.35,2715630,40.55,Urban
+Rajasthan,29-02-2020, Monthly,7.28,4117172,46.04,Rural
+Rajasthan,29-02-2020, Monthly,5.4,2017433,49.2,Urban
+Tamil Nadu,29-02-2020, Monthly,6.43,1844193,49.18,Rural
+Tamil Nadu,29-02-2020, Monthly,7.0,3749178,41.41,Urban
+Uttar Pradesh,29-02-2020, Monthly,5.88,3903540,49.15,Rural
+Uttar Pradesh,29-02-2020, Monthly,6.97,2839765,42.2,Urban
+West Bengal,29-02-2020, Monthly,6.09,1570451,44.59,Rural
+West Bengal,29-02-2020, Monthly,8.51,4822654,49.97,Urban
+Andhra Pradesh,31-03-2020, Monthly,16.21,3878604,43.97,Rural
+Andhra Pradesh,31-03-2020, Monthly,19.87,4239229,42.05,Urban
+Bihar,31-03-2020, Monthly,12.6,2663261,48.37,Rural
+Bihar,31-03-2020, Monthly,20.46,1824690,44.53,Urban
+Delhi,31-03-2020, Monthly,16.08,2599601,44.97,Rural
+Delhi,31-03-2020, Monthly,21.86,2625351,48.62,Urban
+Gujarat,31-03-2020, Monthly,19.32,2017289,48.97,Rural
+Gujarat,31-03-2020, Monthly,20.87,2785910,41.56,Urban
+Haryana,31-03-2020, Monthly,18.05,4130176,45.52,Rural
+Haryana,31-03-2020, Monthly,16.93,3684670,40.2,Urban
+Karnataka,31-03-2020, Monthly,13.43,4480130,48.87,Rural
+Karnataka,31-03-2020, Monthly,21.01,3694946,42.43,Urban
+Maharashtra,31-03-2020, Monthly,18.49,1608746,49.63,Rural
+Maharashtra,31-03-2020, Monthly,23.73,1611213,42.93,Urban
+Punjab,31-03-2020, Monthly,18.2,3351878,47.36,Rural
+Punjab,31-03-2020, Monthly,22.73,3007954,45.83,Urban
+Rajasthan,31-03-2020, Monthly,16.16,1260910,46.25,Rural
+Rajasthan,31-03-2020, Monthly,19.01,4240642,45.9,Urban
+Tamil Nadu,31-03-2020, Monthly,14.39,1996261,47.74,Rural
+Tamil Nadu,31-03-2020, Monthly,19.35,4266402,49.48,Urban
+Uttar Pradesh,31-03-2020, Monthly,17.39,2305289,45.66,Rural
+Uttar Pradesh,31-03-2020, Monthly,24.8,3003679,44.25,Urban
+West Bengal,31-03-2020, Monthly,11.72,3656807,46.99,Rural
+West Bengal,31-03-2020, Monthly,18.46,3245909,48.35,Urban
+Andhra Pradesh,30-04-2020, Monthly,19.93,4353708,46.91,Rural
+Andhra Pradesh,30-04-2020, Monthly,22.48,2566847,41.18,Urban
+Bihar,30-04-2020, Monthly,16.16,3006032,44.05,Rural
+Bihar,30-04-2020, Monthly,20.42,1573044,40.11,Urban
+Delhi,30-04-2020, Monthly,13.9,4621509,47.32,Rural
+Delhi,30-04-2020, Monthly,17.77,1572212,41.75,Urban
+Gujarat,30-04-2020, Monthly,19.15,2400283,47.71,Rural
+Gujarat,30-04-2020, Monthly,18.93,3660149,47.38,Urban
+Haryana,30-04-2020, Monthly,12.87,1996121,40.68,Rural
+Haryana,30-04-2020, Monthly,23.25,3038435,47.19,Urban
+Karnataka,30-04-2020, Monthly,14.51,2994849,43.97,Rural
+Karnataka,30-04-2020, Monthly,23.81,2531191,42.15,Urban
+Maharashtra,30-04-2020, Monthly,11.77,2509090,48.42,Rural
+Maharashtra,30-04-2020, Monthly,24.37,2611754,43.34,Urban
+Punjab,30-04-2020, Monthly,17.38,4947208,43.52,Rural
+Punjab,30-04-2020, Monthly,19.54,3704999,44.35,Urban
+Rajasthan,30-04-2020, Monthly,14.61,3524388,40.02,Rural
+Rajasthan,30-04-2020, Monthly,23.69,3382347,43.61,Urban
+Tamil Nadu,30-04-2020, Monthly,13.57,1428988,47.9,Rural
+Tamil Nadu,30-04-2020, Monthly,21.95,4297291,45.42,Urban
+Uttar Pradesh,30-04-2020, Monthly,19.45,4852948,47.59,Rural
+Uttar Pradesh,30-04-2020, Monthly,22.52,1464071,42.5,Urban
+West Bengal,30-04-2020, Monthly,15.36,2560473,40.52,Rural
+West Bengal,30-04-2020, Monthly,20.79,2602575,49.25,Urban
+Andhra Pradesh,31-05-2020, Monthly,13.58,2929465,43.13,Rural
+Andhra Pradesh,31-05-2020, Monthly,16.67,1928626,49.24,Urban
+Bihar,31-05-2020, Monthly,20.66,3497105,47.45,Rural
+Bihar,31-05-2020, Monthly,15.46,4395049,46.45,Urban
+Delhi,31-05-2020, Monthly,16.93,1559723,41.21,Rural
+Delhi,31-05-2020, Monthly,16.16,1134055,44.41,Urban
+Gujarat,31-05-2020, Monthly,15.38,2142647,45.39,Rural
+Gujarat,31-05-2020, Monthly,22.54,4828433,45.2,Urban
+Haryana,31-05-2020, Monthly,16.17,3207169,40.24,Rural
+Haryana,31-05-2020, Monthly,22.74,3913014,41.85,Urban
+Karnataka,31-05-2020, Monthly,15.94,3979706,49.98,Rural
+Karnataka,31-05-2020, Monthly,19.04,3421212,40.38,Urban
+Maharashtra,31-05-2020, Monthly,16.0,1870123,49.84,Rural
+Maharashtra,31-05-2020, Monthly,22.52,2969510,45.23,Urban
+Punjab,31-05-2020, Monthly,16.86,3207148,43.55,Rural
+Punjab,31-05-2020, Monthly,17.47,1899005,45.89,Urban
+Rajasthan,31-05-2020, Monthly,15.04,1767950,44.28,Rural
+Rajasthan,31-05-2020, Monthly,19.2,3063499,49.56,Urban
+Tamil Nadu,31-05-2020, Monthly,17.9,3850171,44.18,Rural
+Tamil Nadu,31-05-2020, Monthly,24.68,3596874,49.04,Urban
+Uttar Pradesh,31-05-2020, Monthly,20.4,3290435,42.32,Rural
+Uttar Pradesh,31-05-2020, Monthly,24.73,2352564,48.31,Urban
+West Bengal,31-05-2020, Monthly,12.06,2295160,42.2,Rural
+West Bengal,31-05-2020, Monthly,17.42,3215685,48.01,Urban
+Andhra Pradesh,30-06-2020, Monthly,16.47,3930184,49.28,Rural
+Andhra Pradesh,30-06-2020, Monthly,24.3,4153385,45.15,Urban
+Bihar,30-06-2020, Monthly,16.92,2732767,44.63,Rural
+Bihar,30-06-2020, Monthly,21.73,3944088,45.93,Urban
+Delhi,30-06-2020, Monthly,15.82,3180712,43.91,Rural
+Delhi,30-06-2020, Monthly,17.68,2852610,49.56,Urban
+Gujarat,30-06-2020, Monthly,19.52,4974680,45.51,Rural
+Gujarat,30-06-2020, Monthly,15.69,3655182,40.05,Urban
+Haryana,30-06-2020, Monthly,16.66,2614737,40.81,Rural
+Haryana,30-06-2020, Monthly,17.57,2135564,48.51,Urban
+Karnataka,30-06-2020, Monthly,15.92,3623836,49.07,Rural
+Karnataka,30-06-2020, Monthly,21.04,4479591,45.66,Urban
+Maharashtra,30-06-2020, Monthly,14.89,3366610,48.68,Rural
+Maharashtra,30-06-2020, Monthly,16.77,2047343,47.08,Urban
+Punjab,30-06-2020, Monthly,19.09,2946793,41.06,Rural
+Punjab,30-06-2020, Monthly,21.37,4340420,48.81,Urban
+Rajasthan,30-06-2020, Monthly,18.03,3669078,40.05,Rural
+Rajasthan,30-06-2020, Monthly,22.66,3139686,41.61,Urban
+Tamil Nadu,30-06-2020, Monthly,19.21,3713564,42.59,Rural
+Tamil Nadu,30-06-2020, Monthly,16.1,2123994,49.81,Urban
+Uttar Pradesh,30-06-2020, Monthly,16.57,1930491,40.09,Rural
+Uttar Pradesh,30-06-2020, Monthly,22.44,1600530,47.61,Urban
+West Bengal,30-06-2020, Monthly,17.26,1323390,43.92,Rural
+West Bengal,30-06-2020, Monthly,17.3,4096853,49.37,Urban
+Andhra Pradesh,31-07-2020, Monthly,9.89,1783066,41.66,Rural
+Andhra Pradesh,31-07-2020, Monthly,11.5,4941237,43.46,Urban
+Bihar,31-07-2020, Monthly,9.58,2902897,49.9,Rural
+Bihar,31-07-2020, Monthly,10.6,1484090,41.3,Urban
+Delhi,31-07-2020, Monthly,10.08,3745226,48.22,Rural
+Delhi,31-07-2020, Monthly,10.12,3386378,46.83,Urban
+Gujarat,31-07-2020, Monthly,9.33,1232732,49.44,Rural
+Gujarat,31-07-2020, Monthly,9.12,3821390,47.95,Urban
+Haryana,31-07-2020, Monthly,10.22,2502337,47.73,Rural
+Haryana,31-07-2020, Monthly,8.18,4722946,49.51,Urban
+Karnataka,31-07-2020, Monthly,8.47,2101844,49.1,Rural
+Karnataka,31-07-2020, Monthly,12.36,2410706,42.74,Urban
+Maharashtra,31-07-2020, Monthly,11.75,3338683,47.24,Rural
+Maharashtra,31-07-2020, Monthly,10.38,2286936,47.15,Urban
+Punjab,31-07-2020, Monthly,10.19,2134106,49.68,Rural
+Punjab,31-07-2020, Monthly,9.48,1986420,41.54,Urban
+Rajasthan,31-07-2020, Monthly,9.88,2218758,46.26,Rural
+Rajasthan,31-07-2020, Monthly,7.59,4977019,49.68,Urban
+Tamil Nadu,31-07-2020, Monthly,8.67,2096413,41.17,Rural
+Tamil Nadu,31-07-2020, Monthly,8.87,3655971,45.58,Urban
+Uttar Pradesh,31-07-2020, Monthly,8.22,1654037,45.82,Rural
+Uttar Pradesh,31-07-2020, Monthly,9.67,4400074,49.84,Urban
+West Bengal,31-07-2020, Monthly,8.53,4303389,43.92,Rural
+West Bengal,31-07-2020, Monthly,10.12,3778655,46.57,Urban
+Andhra Pradesh,31-08-2020, Monthly,11.93,3543016,40.4,Rural
+Andhra Pradesh,31-08-2020, Monthly,9.13,4582352,41.03,Urban
+Bihar,31-08-2020, Monthly,9.32,4913013,46.18,Rural
+Bihar,31-08-2020, Monthly,10.93,1022431,49.41,Urban
+Delhi,31-08-2020, Monthly,8.36,3995944,43.51,Rural
+Delhi,31-08-2020, Monthly,7.29,2885077,43.22,Urban
+Gujarat,31-08-2020, Monthly,11.31,4483769,48.01,Rural
+Gujarat,31-08-2020, Monthly,8.14,1324912,49.52,Urban
+Haryana,31-08-2020, Monthly,9.29,1215048,49.36,Rural
+Haryana,31-08-2020, Monthly,8.29,1327025,49.35,Urban
+Karnataka,31-08-2020, Monthly,12.04,1943187,43.39,Rural
+Karnataka,31-08-2020, Monthly,10.42,2225811,45.53,Urban
+Maharashtra,31-08-2020, Monthly,10.96,2868670,46.44,Rural
+Maharashtra,31-08-2020, Monthly,10.57,3470858,47.25,Urban
+Punjab,31-08-2020, Monthly,10.67,4278360,48.72,Rural
+Punjab,31-08-2020, Monthly,9.83,1594604,41.82,Urban
+Rajasthan,31-08-2020, Monthly,11.48,1639282,41.62,Rural
+Rajasthan,31-08-2020, Monthly,8.39,2217060,49.96,Urban
+Tamil Nadu,31-08-2020, Monthly,12.2,2390281,44.03,Rural
+Tamil Nadu,31-08-2020, Monthly,8.72,2946830,42.58,Urban
+Uttar Pradesh,31-08-2020, Monthly,10.59,3605214,44.16,Rural
+Uttar Pradesh,31-08-2020, Monthly,11.64,4958123,47.68,Urban
+West Bengal,31-08-2020, Monthly,10.11,2391538,45.79,Rural
+West Bengal,31-08-2020, Monthly,10.2,2463807,46.06,Urban
+Andhra Pradesh,30-09-2020, Monthly,10.98,4060006,42.77,Rural
+Andhra Pradesh,30-09-2020, Monthly,11.19,4011851,43.84,Urban
+Bihar,30-09-2020, Monthly,10.54,2892064,41.32,Rural
+Bihar,30-09-2020, Monthly,11.68,4026217,42.38,Urban
+Delhi,30-09-2020, Monthly,11.25,4734340,40.69,Rural
+Delhi,30-09-2020, Monthly,8.94,4109244,44.45,Urban
+Gujarat,30-09-2020, Monthly,9.78,1761985,40.95,Rural
+Gujarat,30-09-2020, Monthly,10.23,3613275,42.58,Urban
+Haryana,30-09-2020, Monthly,10.28,1152999,45.99,Rural
+Haryana,30-09-2020, Monthly,9.06,2284382,42.36,Urban
+Karnataka,30-09-2020, Monthly,7.63,2042377,44.49,Rural
+Karnataka,30-09-2020, Monthly,9.97,1923780,42.49,Urban
+Maharashtra,30-09-2020, Monthly,10.88,1213567,43.59,Rural
+Maharashtra,30-09-2020, Monthly,9.73,2231534,46.64,Urban
+Punjab,30-09-2020, Monthly,10.59,1026155,44.46,Rural
+Punjab,30-09-2020, Monthly,11.57,4622138,41.12,Urban
+Rajasthan,30-09-2020, Monthly,8.19,4848702,42.31,Rural
+Rajasthan,30-09-2020, Monthly,8.49,1394274,44.52,Urban
+Tamil Nadu,30-09-2020, Monthly,11.37,2713136,45.85,Rural
+Tamil Nadu,30-09-2020, Monthly,10.55,2738993,49.65,Urban
+Uttar Pradesh,30-09-2020, Monthly,8.92,2924401,49.73,Rural
+Uttar Pradesh,30-09-2020, Monthly,9.83,2055146,44.89,Urban
+West Bengal,30-09-2020, Monthly,9.95,3906495,41.33,Rural
+West Bengal,30-09-2020, Monthly,9.45,3048891,46.73,Urban
+Andhra Pradesh,31-10-2020, Monthly,11.07,4122951,41.56,Rural
+Andhra Pradesh,31-10-2020, Monthly,9.86,2819822,46.93,Urban
+Bihar,31-10-2020, Monthly,12.24,3709449,40.18,Rural
+Bihar,31-10-2020, Monthly,9.64,2507630,45.71,Urban
+Delhi,31-10-2020, Monthly,8.98,1316205,49.19,Rural
+Delhi,31-10-2020, Monthly,11.28,3864781,43.94,Urban
+Gujarat,31-10-2020, Monthly,9.82,3657499,41.59,Rural
+Gujarat,31-10-2020, Monthly,10.06,1978080,44.07,Urban
+Haryana,31-10-2020, Monthly,12.05,3619980,42.89,Rural
+Haryana,31-10-2020, Monthly,8.74,3329701,43.27,Urban
+Karnataka,31-10-2020, Monthly,11.29,3432593,48.78,Rural
+Karnataka,31-10-2020, Monthly,10.01,3887296,41.2,Urban
+Maharashtra,31-10-2020, Monthly,9.19,2576590,46.3,Rural
+Maharashtra,31-10-2020, Monthly,10.57,3305938,43.89,Urban
+Punjab,31-10-2020, Monthly,9.27,1880112,44.44,Rural
+Punjab,31-10-2020, Monthly,8.23,3042823,46.68,Urban
+Rajasthan,31-10-2020, Monthly,10.4,4777538,45.42,Rural
+Rajasthan,31-10-2020, Monthly,12.5,1747419,40.26,Urban
+Tamil Nadu,31-10-2020, Monthly,9.13,2654753,45.27,Rural
+Tamil Nadu,31-10-2020, Monthly,8.94,4481642,47.65,Urban
+Uttar Pradesh,31-10-2020, Monthly,11.69,2913722,45.21,Rural
+Uttar Pradesh,31-10-2020, Monthly,11.15,1987471,46.47,Urban
+West Bengal,31-10-2020, Monthly,11.08,2188554,43.8,Rural
+West Bengal,31-10-2020, Monthly,8.75,1955154,41.01,Urban
+Andhra Pradesh,30-11-2020, Monthly,9.46,3977331,46.7,Rural
+Andhra Pradesh,30-11-2020, Monthly,11.78,4667591,43.11,Urban
+Bihar,30-11-2020, Monthly,10.87,1700336,49.77,Rural
+Bihar,30-11-2020, Monthly,11.34,1754950,46.81,Urban
+Delhi,30-11-2020, Monthly,8.78,1265798,42.95,Rural
+Delhi,30-11-2020, Monthly,10.54,4265463,49.63,Urban
+Gujarat,30-11-2020, Monthly,10.55,2811840,43.74,Rural
+Gujarat,30-11-2020, Monthly,9.33,3709644,46.02,Urban
+Haryana,30-11-2020, Monthly,12.05,3322312,47.94,Rural
+Haryana,30-11-2020, Monthly,9.94,2807992,48.4,Urban
+Karnataka,30-11-2020, Monthly,11.31,3329753,42.56,Rural
+Karnataka,30-11-2020, Monthly,9.67,3526819,44.24,Urban
+Maharashtra,30-11-2020, Monthly,9.86,4489443,41.5,Rural
+Maharashtra,30-11-2020, Monthly,9.0,4696176,47.37,Urban
+Punjab,30-11-2020, Monthly,10.88,1049104,41.78,Rural
+Punjab,30-11-2020, Monthly,8.71,1564678,45.47,Urban
+Rajasthan,30-11-2020, Monthly,8.71,4119612,40.58,Rural
+Rajasthan,30-11-2020, Monthly,8.12,2577222,46.95,Urban
+Tamil Nadu,30-11-2020, Monthly,9.47,4439782,47.25,Rural
+Tamil Nadu,30-11-2020, Monthly,7.75,2493293,41.04,Urban
+Uttar Pradesh,30-11-2020, Monthly,11.05,4105958,47.73,Rural
+Uttar Pradesh,30-11-2020, Monthly,9.35,1204451,41.92,Urban
+West Bengal,30-11-2020, Monthly,8.75,3165160,46.17,Rural
+West Bengal,30-11-2020, Monthly,10.43,3823099,48.0,Urban
